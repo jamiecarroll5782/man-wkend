@@ -1,0 +1,103 @@
+
+
+a {
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+}
+
+#headerphoto {
+	margin: 0 0 15px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+
+#logo {
+	text-align: center;
+	margin: 0;
+}
+
+#navigation li {
+	width: auto;
+	margin: 0 10px;
+	padding: 0;
+	display: inline-block;
+
+	text-align: center;
+	list-style: none;
+	font-size: 24px;
+}
+
+#ixclock {
+	float: right;
+	padding: 10px;
+	width: 100%;
+}
+
+#clock {
+	float: right;
+	padding: 10px;
+	width: 100%;
+}
+#vegasphoto {
+	margin: 0 0 15px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+
+
+h1 {
+	background-color: #2b2b2b;
+	color: #ffa500;
+	font-size: 72px;
+	padding: 0;
+	}
+
+nav {
+	background: black;
+	list-style: none;
+	text-align: center;
+}
+
+nav a, nav a:visited{
+	color: white;
+}
+
+nav a.selected, nav a:hover {
+	color: #ffa500;
+}
+
+nav a {
+	font-weight: normal;
+	padding: 15px 5px;
+}
+
+/* site body */
+body {
+	background-color: #eeebe5;
+}
+
+/********** 
+Footer
+**********/
+footer {
+	font-size: .75em;
+	text-align: center;
+	clear: both;
+	padding-top: 50px;
+	color: #2b2b2b;
+}
+
+.social-icon {
+	width: 60px;
+	height: 60px;
+	margin: 0 5px;
+}
